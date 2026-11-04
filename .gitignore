@@ -1,0 +1,4 @@
+# исключения из задачи:
+../.venv/
+__pycache__/
+do_not_push_me.py
